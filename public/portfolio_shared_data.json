@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "Miguel Frutos",
+      "titles": [ "Data Scientist", "AI/ML Enthusiast", "Deep Learning Specialist", "Natural Lenguage Processing" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/miguelfrutos",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/miguelfrutos/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "Jupyter",
+          "class": "devicon-jupyter-plain",
+          "level": "95"
+        },
+        {
+          "name": "git",
+          "class": "devicon-git-plain",
+          "level": "80"
+        },
+        {
+          "name": "Kafka",
+          "class": "devicon-apachekafka-original",
+          "level": "90"
+        },
+        {
+          "name": "RStudio",
+          "class": "devicon-rstudio-plain",
+          "level": "70"
+        },
+        {
+          "name": "Apache Spark",
+          "class": "devicon-apache-line",
+          "level": "75"
+        },
+        {
+          "name": "Tensorflow",
+          "class": "devicon-tensorflow-original",
+          "level": "85"
+        },
+        {
+          "name": "Visual Studio",
+          "class": "devicon-visualstudio-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,161 @@
+{
+    "basic_info": {
+      "description_header": "Hello there!",
+      "description": "Welcome to my Portfolio 👋 . I'm Miguel Frutos, curious Data Scientist ready to solve the most intellectually stimulating and impactful problems. If you like this portfolio 🚀, feel free to reach me out to have a conversation or to explore new opportunities. Thank you for your time! Enjoy :) ⭐ ",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "My Muppet is a Songwriter",
+        "startDate": "2022",
+        "description": "Our Natural Language Processing professor, Angel Castellanos Gonzalez, has proposed us a challenge. Create an application that should address an actual use case scenario. Some people in our group play instruments and we have even tried to write songs, with unfortunate results, specially to our audience (family and friends) that were expecting a new Lady Gaga and Freddie Mercury in the room and after few songs realizing that maybe we should think of doing something else. Should we abandon our dreams?.",
+        "images": [
+          "images/portfolio/Songwriter/p1.jpg",
+          "images/portfolio/Songwriter/p2.jpg"
+        ],
+        "url": "https://github.com/miguelfrutos/Songwriter",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-flask-original",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-tensorflow-original",
+            "name": "Tensorflow"
+          }
+        ]
+      },
+      {
+        "title": "Ukraine Tweets",
+        "startDate": "2022",
+        "description": "Thursday, February 24, 2022 Russian army invades Ukraine and marks the beginning of a war that threatens Western countries, accompanied by a humanitarian refugee crisis. The purpose of this project is to obtain information from Ukrainian tweets for future analysis. One of the limitations to using Twitter is that only about 1% of tweets are geotagged with the tweet's location, which can make much of this work very difficult.",
+        "images": [
+          "images/portfolio/Ukraine/p1.jpg",
+          "images/portfolio/Ukraine/p2.jpg"
+        ],
+        "url": "https://github.com/miguelfrutos/Ukraine_tweets",
+        "technologies": [
+          {
+            "class": "devicon-twitter-original",
+            "name": "Twitter"
+          },
+          {
+            "class": "devicon-apachekafka-original",
+            "name": "Kafka"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "UNO Object Detection",
+        "startDate": "2022",
+        "description": "Our use case would be an Object Dectection by training a NN to identify correctly Uno Cards. dataset that contains 8,992 images of Uno cards and 26,976 labeled examples on various textured backgrounds.",
+        "images": [
+          "images/portfolio/Uno/p1.jpg",
+          "images/portfolio/Uno/p2.jpg"
+        ],
+        "url": "https://github.com/miguelfrutos/Convolutional-Neuronal-Nets/blob/main/05.YOLOv5_UNO_Cards.ipynb",
+        "technologies": [
+          {
+            "class": "devicon-tensorflow-original",
+            "name": "Tensorflow"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "IE Business School",
+        "title": "Data Scientist",
+        "years": "01.2021 - present",
+        "mainTech": [
+          "Artificial Intelligence"
+        ],
+        "technologies": [
+          "Python",
+          "R",
+          "SQL & MongoDB",
+          "Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Computer Vision",
+          "Hadoop & Spark",
+          "Tableau"
+        ]
+      },
+      {
+        "company": "Airbus",
+        "title": "Procurement Manager",
+        "years": "07.2021 - 12.2021",
+        "mainTech": [
+          "Digitalization & Transformation"
+        ],
+        "technologies": [
+          "Data Analysis",
+          "Data Governance",
+          "Supply Chain Optimization",
+          "Contract Negotiation",
+          "Savings Oriented"
+        ]
+      },
+      {
+        "company": "Airbus",
+        "title": "Project Manager",
+        "years": "04.2018 - 07.2021",
+        "mainTech": [
+          "Team Management"
+        ],
+        "technologies": [
+          "Procurement",
+          "Supply Chain",
+          "Programs & Campaigns",
+          "Transversal Synergies",
+          "A400M & LTA"
+        ]
+      },
+      {
+        "company": "Siemens",
+        "title": "Business Analytics & Controlling/IT",
+        "years": "05.2016 - 08.2016",
+        "mainTech": [
+          "Forecasting"
+        ],
+        "technologies": [
+          "Finance",
+          "IT",
+          "Reporting",
+          "Fixed Assets",
+          "Purchase Orders"
+        ]
+      },
+      {
+        "company": "GFT Technologies",
+        "title": "Sales & Data Area",
+        "years": "07.2013 - 08.2013",
+        "mainTech": [
+          "Analytics"
+        ],
+        "technologies": [
+          "Data Mining",
+          "CRM",
+          "Sales Strategy"
+        ]
+      }
+    ]
+  }
